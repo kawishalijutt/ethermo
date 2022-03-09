@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "926559561762",
+      "project_id": "smart-12275",
+      "storage_bucket": "smart-12275.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:926559561762:android:84dcaff7a5c92ccd22027b",
+          "android_client_info": {
+            "package_name": "com.example.nemo_home"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "926559561762-ssseh8vauskfb4p8cf2aeqniotb18v67.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBfNdV5EjN8JSE-0M4-vhQi4w5ecjr0IYQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "926559561762-ssseh8vauskfb4p8cf2aeqniotb18v67.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
